@@ -1,14 +1,14 @@
-## Hi, I’m [Mohamamd Bahmani] — an IT Consultant based in Germany with a PhD in Physics and a passion for DevOps, MLOps, and automation.
+## 👋 Hi, I’m Mohamamd Bahmani — an IT Consultant based in Germany with a PhD in Physics and a passion for DevOps, MLOps, and automation.
 
 🔧 I specialize in:
 
-CI/CD, GitOps (ArgoCD), IaC (Terraform, Ansible)
+- DevOp and MLOps
 
-Kubernetes, Containers, Linux SysAdmin
+- CI/CD, GitOps (ArgoCD), IaC (Terraform, Ansible)
 
-Monitoring, observability, and security
+- Kubernetes, Containers, Linux SysAdmin
 
-Database & infrastructure management
+- Monitoring and observability
 
 💡 I enjoy tackling complex problems, sharing knowledge, and continuously learning.
 
