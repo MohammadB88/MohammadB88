@@ -20,6 +20,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+# 📊 Some stats about my Github repositories:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadB88&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 **MohammadB88/MohammadB88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
